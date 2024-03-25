@@ -4,7 +4,6 @@
 <b>💡 @zusung47</b>
 &nbsp;&nbsp;
 <a href="mailto:zusung47@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=programmer7771@gmail.com"/></a>
-<a href="https://zusung47.github.io/"><img src="https://img.shields.io/badge/TechBlog-03C75A?style=flat&logo=Bloglovin&logoColor=white&link="/></a>
 </p>
 <p>
 <b>✨ Tech Stack</b>
